@@ -1,0 +1,110 @@
+【Paper Prototyping】
+
+
+Paper Prototyping: The 10-Minute Practical Guide
+https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/
+
+
+PRINTABLE GRIDS FOR DESIGN WIREFRAMING
+http://sneakpeekit.com/
+
+
+Rapid Prototyping 1 of 3: Sketching & Paper Prototyping
+https://www.youtube.com/watch?v=JMjozqJS44M
+
+
+TGD 3151 Game Design Fundamental - Paper Prototyping
+https://www.youtube.com/watch?v=JMoVMFkU8gE
+
+
+
+
+【GoodDesign 影片】
+
+
+The three ways that good design makes you happy | Don Norman
+https://www.youtube.com/watch?v=RlQEoJaLQRA
+
+
+The first secret of great design | Tony Fadell
+https://www.youtube.com/watch?v=9uOMectkCCs
+
+
+【未來人來了】(10)使用者體驗設計師
+https://www.youtube.com/watch?v=Z64bfjfRkfs
+
+
+起心動念-使用者經驗最吸引我的地方
+https://www.youtube.com/watch?v=O8evbBC9dZY
+
+
+什麼是設計思考？(What is Design Thinking)
+https://www.youtube.com/watch?v=Ap3qEVzYElk
+
+
+UX Designer Course 公開課
+https://www.youtube.com/watch?v=YHBrpMiQwuY
+
+
+
+
+
+【UI/UX 作業一】
+
+請以 Paper Prototyping 的方式，
+手繪出首頁/登入/加入會員等操作流程。
+
+
+
+
+【UI/UX 作業二】
+
+UI/UX 作業 -- 以線框工具製作 Prototype
+
+Pencil Project 線框工具官網:
+http://pencil.evolus.vn/
+
+請以線框工具描繪 Prototype 畫面，
+畫面與流程請參照任一網站（例如臉書）
+或之前 Paper Prototyping 登入作業。
+
+
+
+
+【UI/UX 作業三】
+
+以下兩項請擇一進行:
+
+A. 錄製一段影片，敘述 UI/UX 課程的重點與心得。
+
+B. 手寫或打字，敘述 UI/UX 課程的重點與心得。
+
+
+
+
+【課後參考資料】
+
+
+蘋果的 Human Interface Guidelines
+https://developer.apple.com/design/
+
+
+Google Design
+https://design.google/
+
+
+
+
+【課後參考影片】
+
+擊中使用者經驗設計與SEO的甜蜜點--林思吾
+https://www.youtube.com/watch?v=YAdGviuLtyU
+
+
+What is User Experience Design?
+https://www.youtube.com/watch?v=Nj6x01wg2WA
+
+
+Forty UI/UX design examples
+https://www.youtube.com/watch?v=6caUnPRHMGs
+
